@@ -22,4 +22,4 @@ A lot of stuff happened after the earth was made. The time after the earth was m
 Some of the first animals on earth were reptiles. **Reptiles lived during the Mesozoic Era**, therefore, it is commonly called the age of the Reptiles.
 ##The First Humans
 ######10,000 years ago
-**The first *homo sapiens*, or humans, evolved around 10,000 years ago.
+**The first *homo sapiens*, or humans, evolved around 10,000 years ago.**
