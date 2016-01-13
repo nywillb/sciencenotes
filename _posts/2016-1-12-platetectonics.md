@@ -18,5 +18,8 @@ Many of the meteors carried small amounts of water. When they hit earth, the wat
 A lot of stuff happened after the earth was made. The time after the earth was made was spit into 3 Eons, and those eons were split into eras, and so on. You can see the whole chart below:
 ![Geologic Time Scale](http://www.stratigraphy.org/ICSchart/ChronostratChart2014-02.jpg)
 ##The age of reptiles
-<pre>
-Some of the first animals on earth were reptiles. **Reptiles lived during the Mesozoic Era***
+######251 mya to 186 mya
+Some of the first animals on earth were reptiles. **Reptiles lived during the Mesozoic Era**, therefore, it is commonly called the age of the Reptiles.
+##The First Humans
+######10,000 years ago
+**The first *homo sapiens*, or humans, evolved around 10,000 years ago.
