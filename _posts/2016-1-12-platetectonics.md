@@ -13,3 +13,10 @@ When the earth was made, it had an **anerobic atmosphere** (an atmosphere withou
 The crust was made of **two different materials, Basalt, and Granite. Basalt, being more dense than granite sunk, when granite rose.**
 ##How did water get to earth?
 Many of the meteors carried small amounts of water. When they hit earth, the water was released. After many meteors hit earth, the amount of water multiplied, and because of gravity, the water moved down, into the ocean basin.
+
+#After the earth was made
+A lot of stuff happened after the earth was made. The time after the earth was made was spit into 3 Eons, and those eons were split into eras, and so on. You can see the whole chart below:
+![Geologic Time Scale](http://www.stratigraphy.org/ICSchart/ChronostratChart2014-02.jpg)
+##The age of reptiles
+<pre>
+Some of the first animals on earth were reptiles. **Reptiles lived during the Mesozoic Era***
